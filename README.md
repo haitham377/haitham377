@@ -1,26 +1,25 @@
-# Hey, I'm Haytham Djefal 👋
+# Hey, I'm Haithem Djefel 👋
 
-I'm a math enthusiast and competitive programmer from Algeria.  
-I love solving challenging problems, exploring elegant ideas in mathematics, and finding elegance in algorithms.
+Math enthusiast & competitive programmer from Algeria 🇩🇿  
+I like hard problems — the kind that need creativity, logic, and a lot of patience.
 
-## About Me
-I discovered mathematical olympiads and competitive programming in 2025, and since then I’ve been diving deep into both fields.  
-I enjoy the mix of creativity, logic, and patience required to crack difficult problems, and I’m always exploring new concepts in math and computer science.
+---
 
-## Achievements
-- 🥇 **Gold Medal — Algerian Mathematical Olympiad**
-- 🥉 **Bronze Medal — Pan African Informatics Olympiad**
-- 🇩🇿 **Qualified with Algeria Team B** to the North Africa Olympiad in Informatics
+### 🏆 A few highlights
+- 🥇 **Gold** — Pan African Informatics Olympiad 2026 (1st place, onsite)
+- 🥇 **Gold** — Algerian Mathematical Olympiad 2025
+- 🇺🇿 **IOI 2026** — represented Algeria (2nd nationally in selection)
+- 🥉 **Bronze** — North African Informatics Olympiad 2026
+- 🥉 **Bronze** — Pan African Informatics Olympiad 2025
+- 🎓 **ACTS graduate** — JetBrains × Constructor University, Bremen
 
-These experiences shaped a big part of who I am: persistent, curious, and comfortable working under pressure on high-level problems.
+### 🧠 Interests
+- Competitive programming · algorithms · data structures
+- Mathematical problem solving · calculus · linear algebra
+- Theoretical CS & machine learning
+- Logic that blends creativity with rigor
 
-## Interests
-- Competitive programming  
-- Computer science, algorithms, and data structures  
-- Machine learning & artificial intelligence  
-- Mathematical problem solving  
-- Calculus and linear algebra  
-- Logic that blends creativity with rigorous thinking  
+### 🔗 Find me
+[GitHub](https://github.com/haitham377) · [Email](mailto:haithem.djefel.aoi@gmail.com)
 
-## Still Curious
-I’m constantly learning, exploring new ideas, and improving—one problem at a time.
+*Still curious — one problem at a time.*
